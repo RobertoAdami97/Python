@@ -1115,3 +1115,42 @@ WebDriver BiDi listening on ws://127.0.0.1:64477
 1675120498410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CCE\\AppData\\Local\\Temp\\rust_mozprofileTi8zA0\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:64477/devtools/browser/c5625f6a-9f46-4619-9277-f49a09760ac5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1675120673010	Marionette	INFO	Stopped listening on port 64485
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675120679176	geckodriver	INFO	Listening on 127.0.0.1:64548
+1675120682156	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CCE\\AppData\\Local\\Temp\\rust_mozprofileiNJT8F"
+1675120682947	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675120682955	Marionette	INFO	Listening on port 64557
+Read port: 64557
+WebDriver BiDi listening on ws://127.0.0.1:64549
+1675120683305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CCE\\AppData\\Local\\Temp\\rust_mozprofileiNJT8F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64549/devtools/browser/f670b602-86b6-4150-aa17-682e543c0e2f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1675120763790	Marionette	INFO	Stopped listening on port 64557
+Dynamically enable window occlusion 1
+[Parent 12944, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675120782247	geckodriver	INFO	Listening on 127.0.0.1:64614
+1675120785287	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CCE\\AppData\\Local\\Temp\\rust_mozprofilepM52yL"
+1675120786058	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675120786068	Marionette	INFO	Listening on port 64623
+Read port: 64623
+WebDriver BiDi listening on ws://127.0.0.1:64615
+1675120786464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CCE\\AppData\\Local\\Temp\\rust_mozprofilepM52yL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64615/devtools/browser/d97833da-b943-4f49-afa8-223e55e1fc15
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."

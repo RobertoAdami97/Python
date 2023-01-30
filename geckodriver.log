@@ -1085,3 +1085,33 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1675120350482	Marionette	INFO	Stopped listening on port 63988
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675120359949	geckodriver	INFO	Listening on 127.0.0.1:64412
+1675120362973	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CCE\\AppData\\Local\\Temp\\rust_mozprofilesJjzgK"
+1675120363825	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675120363837	Marionette	INFO	Listening on port 64422
+Read port: 64422
+WebDriver BiDi listening on ws://127.0.0.1:64413
+1675120364254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CCE\\AppData\\Local\\Temp\\rust_mozprofilesJjzgK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64413/devtools/browser/f538f3cb-48f1-49ce-a8df-e1a6c760a6e3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1675120445214	Marionette	INFO	Stopped listening on port 64422
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675120494299	geckodriver	INFO	Listening on 127.0.0.1:64476
+1675120497293	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CCE\\AppData\\Local\\Temp\\rust_mozprofileTi8zA0"
+1675120498063	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675120498070	Marionette	INFO	Listening on port 64485
+Read port: 64485
+WebDriver BiDi listening on ws://127.0.0.1:64477
+1675120498410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CCE\\AppData\\Local\\Temp\\rust_mozprofileTi8zA0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64477/devtools/browser/c5625f6a-9f46-4619-9277-f49a09760ac5
